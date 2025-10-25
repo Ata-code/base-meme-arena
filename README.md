@@ -52,6 +52,7 @@ Visit http://localhost:3000 to view the app in action.
     **Build the project:**
 
         '''bash
+        
         npm run build
         '''
 
@@ -59,6 +60,7 @@ Visit http://localhost:3000 to view the app in action.
     **Deploy:**
 
         '''bash
+
         firebase deploy
         '''
 
